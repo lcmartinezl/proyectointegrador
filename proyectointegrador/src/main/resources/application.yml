@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: proyectointegrador
+server:
+  port: 8484

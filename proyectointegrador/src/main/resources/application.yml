@@ -1,5 +1,9 @@
 spring:
   application:
     name: proyectointegrador
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:passw0rd@cluster0.okfa3kr.mongodb.net/db-test?retryWrites=true&w=majority
+
 server:
   port: 8484
